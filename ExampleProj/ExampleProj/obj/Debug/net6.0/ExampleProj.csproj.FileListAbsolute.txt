@@ -1,0 +1,15 @@
+C:\Users\Owner\Desktop\Visual Studio\C#\ExampleProj\ExampleProj\obj\Debug\net6.0\ExampleProj.csproj.AssemblyReference.cache
+C:\Users\Owner\Desktop\Visual Studio\C#\ExampleProj\ExampleProj\obj\Debug\net6.0\ExampleProj.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Owner\Desktop\Visual Studio\C#\ExampleProj\ExampleProj\obj\Debug\net6.0\ExampleProj.AssemblyInfoInputs.cache
+C:\Users\Owner\Desktop\Visual Studio\C#\ExampleProj\ExampleProj\obj\Debug\net6.0\ExampleProj.AssemblyInfo.cs
+C:\Users\Owner\Desktop\Visual Studio\C#\ExampleProj\ExampleProj\obj\Debug\net6.0\ExampleProj.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Desktop\Visual Studio\C#\ExampleProj\ExampleProj\bin\Debug\net6.0\ExampleProj.exe
+C:\Users\Owner\Desktop\Visual Studio\C#\ExampleProj\ExampleProj\bin\Debug\net6.0\ExampleProj.deps.json
+C:\Users\Owner\Desktop\Visual Studio\C#\ExampleProj\ExampleProj\bin\Debug\net6.0\ExampleProj.runtimeconfig.json
+C:\Users\Owner\Desktop\Visual Studio\C#\ExampleProj\ExampleProj\bin\Debug\net6.0\ExampleProj.dll
+C:\Users\Owner\Desktop\Visual Studio\C#\ExampleProj\ExampleProj\bin\Debug\net6.0\ref\ExampleProj.dll
+C:\Users\Owner\Desktop\Visual Studio\C#\ExampleProj\ExampleProj\bin\Debug\net6.0\ExampleProj.pdb
+C:\Users\Owner\Desktop\Visual Studio\C#\ExampleProj\ExampleProj\obj\Debug\net6.0\ExampleProj.dll
+C:\Users\Owner\Desktop\Visual Studio\C#\ExampleProj\ExampleProj\obj\Debug\net6.0\ref\ExampleProj.dll
+C:\Users\Owner\Desktop\Visual Studio\C#\ExampleProj\ExampleProj\obj\Debug\net6.0\ExampleProj.pdb
+C:\Users\Owner\Desktop\Visual Studio\C#\ExampleProj\ExampleProj\obj\Debug\net6.0\ExampleProj.genruntimeconfig.cache
